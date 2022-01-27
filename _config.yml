@@ -1,7 +1,7 @@
 # Setup
 title:        玉龙智慧学习平台-文档
 tagline:      copyright &copy; 合肥市第七中学高一二十三班丁励治
-baseurl:      ""
+baseurl:      "/jude"
 paginate:     1
 locale:       "zh"
 # About/contact
